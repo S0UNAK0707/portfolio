@@ -1,0 +1,28 @@
+/* Custom styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background: #007bff;
+    color: white;
+}
+
+h2 {
+    margin-bottom: 30px;
+}
+
+#skills i {
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+footer {
+    background-color: #343a40;
+    color: #fff;
+}
